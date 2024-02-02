@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chaintech-assignment/static/css/main.6cf8dc59.css",
+    "main.js": "/chaintech-assignment/static/js/main.e7c40a7b.js",
+    "static/media/noTransactions-removebg-preview.png": "/chaintech-assignment/static/media/noTransactions-removebg-preview.db03c29278a31ccab55c.png",
+    "index.html": "/chaintech-assignment/index.html",
+    "main.6cf8dc59.css.map": "/chaintech-assignment/static/css/main.6cf8dc59.css.map",
+    "main.e7c40a7b.js.map": "/chaintech-assignment/static/js/main.e7c40a7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cf8dc59.css",
+    "static/js/main.e7c40a7b.js"
+  ]
+}
